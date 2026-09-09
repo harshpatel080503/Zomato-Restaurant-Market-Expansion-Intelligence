@@ -984,27 +984,3 @@ The final dashboard enables decision-makers to move from:
 to:
 
 > **“Which markets appear more attractive, why, and what evidence supports that prioritization?”**
-
----
-
-# Portfolio Positioning
-
-### One-line project headline
-
-**Built an end-to-end Zomato Restaurant Market Expansion Intelligence platform using Databricks, SQL, Python, statistical analysis, feature engineering, and Power BI to prioritize city/locality expansion opportunities.**
-
-### Core skills demonstrated
-
-`Business Analysis · SQL · Databricks · Delta Lake · Dimensional Modeling · Data Warehousing · Python · Pandas · Statistical Analysis · Feature Engineering · Power BI · DAX · Data Visualization · Business Intelligence`
-
----
-
-# Project Status
-
-**Status: ✅ Completed**
-
-**Project Type:** End-to-End Business Analytics / BI
-
-**Domain:** Food-Tech / Restaurant Marketplace / Market Expansion
-
-**Primary Output:** Executive Market Expansion Intelligence Dashboard
